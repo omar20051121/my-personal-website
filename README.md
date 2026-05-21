@@ -65,8 +65,9 @@ More features, improvements, and projects will be added soon.
 
 ## Screenshots
 
-[First Page interface](Screenshot_my_website.png)
-[Second_Page_interface](Screenshot2_my_website.png)
+-[First Page interface](Screenshot_my_website.png)
+
+-[Second_Page_interface](Screenshot2_my_website.png)
 
 ---
 
